@@ -20,7 +20,7 @@ My engineering approach emphasizes **clean code**, **modular design**, and **sca
 ## ⚙️ Tech Stack
 
 **Languages:**
-Python, JavaScript, PHP
+Python, JavaScript,php
 
 **Backend & Frameworks:**
 FastAPI, Django, Flask
